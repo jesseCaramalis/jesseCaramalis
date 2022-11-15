@@ -23,7 +23,7 @@ Currently looking to bring my skill set and business acumen to a tech company wi
 - 🔭 I’m currently working on Schedule, a fullstack team management and rostering app  
   
 
-- 🌱 I’m currently learning AWS and working towards my Cloud Practitioner certification.  
+- 🌱 I’m currently learning AWS and working towards my Cloud Practitioner certification
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
