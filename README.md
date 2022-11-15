@@ -10,10 +10,10 @@
 <a href="https://linkedin.com/in/jesseCaramalis" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-<br/>
 
-I'm a fullstack software engineer based in Australia.
+
+
+###I'm a fullstack software engineer based in Australia.
 
 My passion is helping small businesses, solving real problems and bringing people's ideas to the world.
 
