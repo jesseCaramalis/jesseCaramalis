@@ -12,6 +12,7 @@
 </a>  
   
 <br/>
+
 I'm a fullstack software engineer based in Australia.
 
 My passion is helping small businesses, solving real problems and bringing people's ideas to the world.
