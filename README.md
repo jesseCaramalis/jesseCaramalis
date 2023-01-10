@@ -16,7 +16,7 @@ My passion is helping small businesses, solving real problems and bringing peopl
 Currently looking to bring my skill set and business acumen to a tech company with global reach.    
 <br/>  
 
-- 🔭 I’m currently working on Schedule, a fullstack team management and rostering app  
+- 🔭 I’m currently working on <a href="https://github.com/jesseCaramalis/plateia">Plateia</a>, a fullstack MERN social media web app.
   
 
 - 🌱 I’m currently learning AWS and working towards my Cloud Practitioner certification
