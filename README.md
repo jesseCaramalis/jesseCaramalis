@@ -18,7 +18,7 @@ Currently looking to bring my skill set and business acumen to a tech company wi
 
 - 🔭 I’m currently working on <a href="https://github.com/jesseCaramalis/plateia">Plateia</a>, a fullstack MERN social media web app. 
 
-- 👨‍💻 [**Checkout my new portfolio**](https://portfolio-react-jessecaramalis.vercel.app/), made with Next.js and Sanity CDN.
+- 👨‍💻 [**Checkout my new portfolio**](https://jessecaramalis.vercel.app/), made with Next.js and Sanity CDN.
 
 - 🌱 I’m currently learning **Next.js, SQL, and working towards my AWS Cloud Practioner certification**
   
