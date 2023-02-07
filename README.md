@@ -36,5 +36,5 @@ Currently looking to bring my skill set and business acumen to a tech company wi
 <br/>  
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img style="width: 49%; height: 200px" src="https://github-readme-streak-stats.herokuapp.com/?user=jessecaramalis&theme=highcontrast" alt="jessecaramalis" />
-  <img style="width: 49%; height: 197px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessecaramalis&show_icons=true&theme=highcontrast&locale=en&layout=compact"        alt="jessecaramalis" />
+  <img style="width: 49%; height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessecaramalis&show_icons=true&theme=highcontrast&locale=en&layout=compact"        alt="jessecaramalis" />
 </div>
