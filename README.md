@@ -26,7 +26,7 @@ Currently looking to bring my skill set and business acumen to a tech company wi
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- 🎖️ Top 10% global [CodeWars](https://www.codewars.com/users/jesseCaramalis) challenge programmer  
+- 🎖️ Top 6% global [CodeWars](https://www.codewars.com/users/jesseCaramalis) challenge programmer  
 
 <br/>
 
