@@ -20,9 +20,6 @@ Currently looking to bring my skill set and business acumen to a tech company wi
 
 - 👨‍💻 [**Checkout my new portfolio**](https://jessecaramalis.vercel.app/), made with Next.js and Sanity CMS.
 
-- 🌱 I’m currently learning **Next.js, SQL, and working towards my AWS Cloud Practioner certification**
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
